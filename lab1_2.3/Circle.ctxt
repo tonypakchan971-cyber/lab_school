@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=redius\ x\ y
+comment1.target=Circle(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getRedius()
+comment3.params=
+comment3.target=Point\ getCenter()
+comment4.params=redius
+comment4.target=void\ setRedius(double)
+comment5.params=center
+comment5.target=void\ setCenter(Point)
+comment6.params=
+comment6.target=double\ getArea()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

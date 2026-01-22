@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommissionWorker
+comment1.params=name\ c\ q
+comment1.target=CommissionWorker(java.lang.String,\ double,\ int)
+comment2.params=c
+comment2.target=void\ setCommission(double)
+comment3.params=q
+comment3.target=void\ setQuantity(int)
+comment4.params=
+comment4.target=double\ earnings()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
